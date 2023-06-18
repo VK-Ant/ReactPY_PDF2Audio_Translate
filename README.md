@@ -8,3 +8,5 @@ Referene: https://youtu.be/L3T4D_YZwKA
 
 1. pdfplumber: https://pypi.org/project/pdfplumber/ (pdf)
 2. gtts: https://gtts.readthedocs.io/en/latest/index.html (Google text to speech API)
+
+# **Happy Learning**
