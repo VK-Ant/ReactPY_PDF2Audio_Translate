@@ -15,4 +15,3 @@ with pp.open('HDE.pdf') as pdf:
 #convert extracted text to speech
 tts = gTTS(text=pdf_text, lang='en')
 tts.save('HDE.mp3')
-
