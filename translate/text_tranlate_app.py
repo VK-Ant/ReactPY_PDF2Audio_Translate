@@ -4,7 +4,7 @@ from googletrans.constants import LANGUAGES
 from streamlit_extras.add_vertical_space import add_vertical_space
 def main():
 
-
+a
     with st.sidebar:
         st.title('🔗VK - 107 Language Translator App🤗')
         st.markdown('''

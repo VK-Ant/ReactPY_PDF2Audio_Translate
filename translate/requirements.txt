@@ -1,3 +1,5 @@
 streamlit
 googletrans
 translate
+SpeechRecognition
+pyaudio
